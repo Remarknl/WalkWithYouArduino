@@ -32,5 +32,5 @@ void loop()
     val3 = (int) val2;
     myservo2.write(val3);
   }
-  delay(15);                           // waits for the servo to get there 
+  delay(10);                           // waits for the servo to get there 
 } 
